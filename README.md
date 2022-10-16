@@ -2,7 +2,7 @@
 
 |             |                                                              |                               |
 | ----------- | ------------------------------------------------------------ | ----------------------------- |
-| MotherBoard | ROG-STRIX-Z370i                                              | [Bios](https://dlsvr04.asus.com.cn/pub/ASUS/mb/BIOS/ROG-STRIX-Z370-I-GAMING-ASUS-3005.ZIP)                      |
+| MotherBoard | ROG-STRIX-Z370i                                              | [MOD Bios By Myself](ASUSTeK_ROG_STRIX_Z370-I_GAMING_3005.389ABCD.bin)                      |
 | CPU         | I9-9980HK                                                      | 8C16T                          |
 | Memory      | CJR 3600 Mhz                                               | 16G*2                          |
 | GPU         | AMD Radeon RX 6600XT 8 GB / Intel HD Graphics 630               |  NITRO+   |
